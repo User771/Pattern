@@ -1,0 +1,13 @@
+.index{
+    position: relative;
+    width: 1920px;
+    height: 11066px;
+    background-color: white;
+}
+.header{
+    position: absolute;
+    width: 1253px;
+    height: 968px;
+    left: 375px;
+    top: 35px;
+}
